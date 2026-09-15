@@ -11,5 +11,5 @@ This website will document my learning and projects throughout the semester.
 ## My Info
 - Email: twansteelejr@gmail.com
 - Github: [asteel28-wq](https://github.com/asteel28-wq)
-- LinkedIn: [antwan-steele-jr-04955a351](www.linkedin.com/in/antwan-steele-jr-04955a351)
+- LinkedIn: [antwan-steele-jr-04955a351](https://www.linkedin.com/in/antwan-steele-jr-04955a351/)   
 - Resume: [Antwan's Resume](https://docs.google.com/document/d/1IgYCDM7taPzI8n0buNrH9MK2B-glbWOKqGxGb6XwtRs/edit?usp=sharing) 
