@@ -1,4 +1,4 @@
-Dynamic Kickoff Rule and Injury Rates
+New Kickoff Rule and Injury Rates
 
 September 2026
 
@@ -8,19 +8,19 @@ Working independently
 
 Introduction
 
-Player safety is one of the issues in football that I think about a lot, and the kickoff has always stood out to me as one of the most dangerous plays in the sport. Players sprint 40+ yards downfield before making contact, and for decades that produced some of the highest closing speeds and most violent collisions in the game. When I started looking into it for this project, I found that injury data consistently ranks kickoffs among the most dangerous plays per snap in the NFL, which is part of why the league has spent years tweaking the rules instead of getting rid of the play entirely.
+Player safety is one of the issues in football that is talked about a lot, and the kickoffs have always stood out as one of the most dangerous plays in the sport on all levels. Players sprint 40+ yards downfield before making contact, and for decades that produced some of the highest closing speeds and most violent collisions in the game. When I started looking into it for this project, I found that injury data consistently ranks kickoffs among the most dangerous plays per snap in the NFL, which is part of why the league has spent years tweaking the rules instead of getting rid of the play entirely.
 
 In 2024, the NFL rolled out a dynamic kickoff format that changed where players line up and how much distance they cover before contact, specifically to try to cut down on high-speed, full-field collisions while still keeping the kickoff in the game. What I want to find out with this project is whether that change actually shows up in the injury numbers, or if the format shift hasn't really moved the needle the way the league hoped. To me, this connects to a bigger question I care about: how much do sports policy changes actually improve player safety versus just changing what a play looks like on paper.
 
 Dataset and Problem Framing
 
-For this project I'm using data from nflverse, an open-source NFL data project distributed under a CC-BY 4.0 license through the nflreadpy Python package. I landed on three datasets that I think give me what I need:
+For this project I'm using data from nflverse, an open-source NFL data project distributed under a CC-BY 4.0 license through the nflreadpy Python package. I landed on three datasets that gives me the information I need:
 
 Play-by-play data (load_pbp()), which goes back to 1999 and lets me isolate kickoff plays specifically and split them into the traditional era versus the dynamic era (2024–present).
 Weekly injury reports (load_injuries()), available since 2009, which give me player-level injury designations, practice status, and game status by week.
 Participation and snap-count data (load_participation() and load_snap_counts()), which I'm planning to use to help confirm which players were actually on the field for kickoff units in a given week, since injury reports aren't tagged to a specific play.
 
-One thing I ran into while reading through the nflverse documentation is that there's no dataset that directly measures collision force or velocity — not even Next Gen Stats, which only covers passing, receiving, and rushing plays. That was a little frustrating at first, but it made me rethink how I'm defining "high-velocity collision" for this project. Instead of measuring it directly, I'm treating it as a proxy built from return yardage, play type (full return vs. touchback), and injury type — I'm assuming concussions are more likely tied to high-speed contact than lower-body injuries, though I know that's an assumption and not something the data confirms outright.
+One thing I ran into while reading through the nflverse documentation is that there's no dataset that directly measures collision force or velocity, not even Next Gen Stats, which only covers passing, receiving, and rushing plays. That was a little frustrating at first, but it made me rethink how I'm defining "high-velocity collision" for this project. Instead of measuring it directly, I'm treating it as a proxy built from return yardage, play type (full return vs. touchback), and injury type — I'm assuming concussions are more likely tied to high-speed contact than lower-body injuries, though I know that's an assumption and not something the data confirms outright.
 
 Methodology and Planned Analysis
 
