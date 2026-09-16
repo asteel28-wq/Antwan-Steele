@@ -52,4 +52,4 @@ I believe everything I need is available through the `nflreadpy` Python package,
 
 ### A Note on AI Use
 
-I used Claude to help me think through my research design, figure out which nflverse datasets actually fit what I'm trying to measure, and organize this page.
+I used Claude to help me figure out which nflverse datasets actually fit what I'm trying to measure.
