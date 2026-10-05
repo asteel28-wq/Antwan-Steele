@@ -3,3 +3,4 @@ This section documents my data science projects, research questions, and data st
 ## Project 1
 [kickoff-injuries](projects/kickoff-rule-injuries/index.md)
 ## Project 2
+[project-hoops](projects/project-hoops/index.md)
