@@ -54,17 +54,16 @@ The holdout consists of the 2022 and 2023 draft classes. Models train on the 201
 
 These plots show points per game against rookie PER and total rookie WS. Each point is one player, colored by draft year. The line is a descriptive linear trend across all complete cases, not a holdout prediction or causal estimate. Total WS also depends on playing time.
 
-## 7. Model design
-
+## 7-8. Model design/ visualizations holdout predictions
+[rookie_outcome.png](projects/project-hoops/analysis_outputs)
+[rookie_prediction.png](projects/project-hoops/analysis_outputs)
 The baseline predicts the training-class mean for every holdout player. Multiple linear regression estimates a straight-line relationship between the six standardized predictors and each outcome. Polynomial regression expands the predictors to include squared and pairwise interaction terms, then applies Ridge regularization (alpha = 10) to limit overfitting. This setting is fixed for this project, not optimized through a separate tuning search.
 
 Both models predict PER and WS separately. MAE and RMSE measure error in the outcome's units; lower values are better. R-squared measures test-set variation explained relative to predicting the test mean; higher is better, and negative values indicate performance worse than that reference.
 
-## 8. Visualization 2: holdout predictions
-
 Each panel compares actual and predicted values for one target/model combination on the 2022-2023 holdout. Points closer to the dashed diagonal are more accurate. The baseline forms a vertical band because it predicts the same training mean for each player.
 
-## 9. Results and interpretation on my visualizations
+## 9. Results and interpretation of my visualizations
 
 The first visualization compares each player’s latest available pre-NBA points per game with their rookie PER and Win Shares. Each dot represents one player, and the colors show the draft year. The trend lines rise slightly, but the dots are spread out, so points per game alone is not a strong predictor of either outcome. The correlations between points per game and rookie PER or Win Shares are close to zero.
 
