@@ -93,8 +93,7 @@ The answer to the research question is **somewhat, but with substantial uncertai
 
 The reusable Python analysis is in [nba_rookie_analysis.py](nba_rookie_analysis.py). Run it from this folder with **python nba_rookie_analysis.py**. It reads the two CSVs in the draft-data folder, saves two figures and result tables in analysis_outputs, and prints coverage and model results.
 
-Generative AI was used to help draft and debug the analysis code and project wording. Check the course's AI disclosure requirements and revise this statement if the instructor requires a specific format.
-
+Generative AI disclosure: I used Claude (Sonnet 5.5, made by Anthropic) to help draft and debug the Python analysis code. I reviewed and ran the code myself, checked the results against the data, and made the final modeling decisions and conclusions.
 ## References
 
 Coates, D., & Oguntimein, B. (2010). The length and success of NBA careers: Does college production predict professional outcomes? *International Journal of Sport Finance, 5*(1), 4-26. https://doi.org/10.1177/155862351000500101
