@@ -1,0 +1,357 @@
+DraftYear,Player,PlayerID,NBA_RookieSeason,PreNBASeason,League,Team,PTS_per_game,REB_per_game,AST_per_game,TOV_per_game,Age,FG_pct,Source_URL
+2018,Deandre Ayton,aytonde01,2018-19,2017-18,College / prospect season,Arizona,20.091,11.553,1.591,2.009,19,0.612,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Marvin Bagley III,baglema01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/b/baglema01.html
+2018,Luka Dončić,doncilu01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/d/doncilu01.html
+2018,Jaren Jackson Jr.,jacksja02,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/j/jacksja02.html
+2018,Trae Young,youngtr01,2018-19,2017-18,College / prospect season,Oklahoma,27.351,3.895,8.675,5.222,19,0.422,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Mo Bamba,bambamo01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/b/bambamo01.html
+2018,Wendell Carter Jr.,cartewe01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/c/cartewe01.html
+2018,Collin Sexton,sextoco01,2018-19,2017-18,College / prospect season,Alabama,19.142,3.739,3.589,2.767,19,0.447,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Kevin Knox,knoxke01,2018-19,2017-18,College / prospect season,Kentucky,15.542,5.423,1.457,2.266,18,0.445,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Mikal Bridges,bridgmi01,2018-19,2017-18,College / prospect season,Villanova,17.669,5.301,1.927,1.365,21,0.514,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Shai Gilgeous-Alexander,gilgesh01,2018-19,2017-18,College / prospect season,Kentucky,14.419,4.132,5.144,2.698,19,0.485,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Miles Bridges,bridgmi02,2018-19,2017-18,College / prospect season,Michigan State,17.103,6.983,2.667,1.961,19,0.457,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Jerome Robinson,robinje01,2018-19,2017-18,College / prospect season,Boston College,20.7,3.6,3.33,2.7,20,0.485,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Michael Porter Jr.,portemi01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/p/portemi01.html
+2018,Troy Brown Jr.,browntr01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/b/browntr01.html
+2018,Zhaire Smith,smithzh01,2018-19,2017-18,College / prospect season,Texas Tech,11.291,4.971,1.775,1.136,18,0.556,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Donte DiVincenzo,divindo01,2018-19,2017-18,College / prospect season,Villanova,13.455,4.753,3.51,1.974,21,0.481,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Lonnie Walker IV,walkelo01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/w/walkelo01.html
+2018,Kevin Huerter,huertke01,2018-19,2017-18,College / prospect season,Maryland,14.709,4.989,3.355,2.494,19,0.503,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Josh Okogie,okogijo01,2018-19,2017-18,College / prospect season,Georgia Tech,18.188,6.275,2.455,2.546,19,0.416,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Grayson Allen,allengr01,2018-19,2017-18,College / prospect season,Duke,15.418,3.298,4.634,2.139,22,0.418,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Chandler Hutchison,hutchch01,2018-19,2017-18,College / prospect season,Boise State,19.995,7.672,3.487,3.333,21,0.475,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Aaron Holiday,holidaa01,2018-19,2017-18,College / prospect season,UCLA,20.356,3.675,5.843,3.77,21,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Anfernee Simons,simonan01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/s/simonan01.html
+2018,Moritz Wagner,wagnemo01,2018-19,2017-18,College / prospect season,Michigan,14.65,7.118,0.829,1.451,20,0.528,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Landry Shamet,shamela01,2018-19,2017-18,College / prospect season,Wichita State,14.908,3.251,5.154,2.062,20,0.489,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Robert Williams,williro04,2018-19,2017-18,College / prospect season,Texas A&M,10.381,9.228,1.41,1.73,20,0.632,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Jacob Evans,evansja02,2018-19,2017-18,College / prospect season,Cincinnati,12.992,4.689,3.152,1.768,20,0.427,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Džanan Musa,musadz01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/m/musadz01.html
+2018,Omari Spellman,spellom01,2018-19,2017-18,College / prospect season,Villanova,10.828,8.016,0.773,0.984,20,0.476,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Elie Okobo,okoboel01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/o/okoboel01.html
+2018,Jevon Carter,carteje01,2018-19,2017-18,College / prospect season,West Virginia,17.3,4.613,6.654,2.661,22,0.422,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Jalen Brunson,brunsja01,2018-19,2017-18,College / prospect season,Villanova,18.921,3.021,4.611,1.749,21,0.521,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Devonte' Graham,grahade01,2018-19,2017-18,College / prospect season,Kansas,17.291,4.063,7.276,2.835,22,0.4,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Melvin Frazier,frazime01,2018-19,2017-18,College / prospect season,Tulane,15.91,5.59,2.838,2.58,21,0.556,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Mitchell Robinson,robinmi01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/r/robinmi01.html
+2018,Gary Trent Jr.,trentga02,2018-19,2017-18,College / prospect season,Duke,14.477,4.233,1.439,1.016,19,0.415,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Khyri Thomas,thomakh01,2018-19,2017-18,College / prospect season,Creighton,15.056,4.358,2.773,1.823,21,0.538,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Isaac Bonga,bongais01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/b/bongais01.html
+2018,Rodions Kurucs,kurucro01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/k/kurucro01.html
+2018,Jarred Vanderbilt,vandeja01,2018-19,2017-18,College / prospect season,Kentucky,5.865,7.862,1.02,1.062,18,0.426,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Bruce Brown,brownbr01,2018-19,2017-18,College / prospect season,Miami,11.368,7.074,4.042,2.274,21,0.415,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Justin Jackson,jacksju02,,2017-18,College / prospect season,Maryland,9.849,8.098,1.897,2.918,20,0.366,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Issuf Sanon,sanonis01,,,,,,,,,,,https://www.basketball-reference.com/players/s/sanonis01.html
+2018,Hamidou Diallo,diallha01,2018-19,2017-18,College / prospect season,Kentucky,10.048,3.66,1.241,1.365,19,0.428,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,De'Anthony Melton,meltode01,2018-19,2016-17,College / prospect season,USC,8.303,4.725,3.442,1.755,18,0.437,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Svi Mykhailiuk,mykhasv01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/m/mykhasv01.html
+2018,Keita Bates-Diop,bateske01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/b/bateske01.html
+2018,Chimezie Metu,metuch01,2018-19,2017-18,College / prospect season,USC,15.64,7.433,1.549,2.013,20,0.523,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Alize Johnson,johnsal02,2018-19,2017-18,College / prospect season,Missouri State,15.031,11.604,2.882,2.258,21,0.43,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Tony Carr,carrto01,,2017-18,College / prospect season,Penn State,19.62,4.949,5.038,2.298,20,0.408,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Vince Edwards,edwarvi01,2018-19,2017-18,College / prospect season,Purdue,14.615,7.426,2.923,2.054,21,0.476,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Devon Hall,hallde01,2019-20,2017-18,College / prospect season,Virginia,11.712,4.171,3.129,1.043,22,0.454,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Shake Milton,miltosh01,2018-19,2017-18,College / prospect season,SMU,18.0,4.727,4.364,2.273,21,0.449,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Arnoldas Kulboka,kulboar01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/k/kulboar01.html
+2018,Ray Spalding,spaldra01,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/s/spaldra01.html
+2018,Kevin Hervey,herveke01,2019-20,2017-18,College / prospect season,Texas Arlington,20.474,8.544,2.176,2.741,21,0.446,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,Thomas Welsh,welshth01,2018-19,2017-18,College / prospect season,UCLA,12.621,10.877,1.412,0.996,21,0.485,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2018,George King,kingge03,2018-19,,,,,,,,,,https://www.basketball-reference.com/players/k/kingge03.html
+2018,Kostas Antetokounmpo,antetko01,2018-19,2017-18,College / prospect season,Dayton,5.211,2.87,0.453,1.359,20,0.574,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Zion Williamson,willizi01,2019-20,2018-19,College / prospect season,Duke,22.575,8.85,2.025,2.4,18,0.68,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Ja Morant,moranja01,2019-20,2018-19,College / prospect season,Murray State,24.506,5.669,10.058,5.121,19,0.499,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,RJ Barrett,barrerj01,2019-20,2018-19,College / prospect season,Duke,22.673,7.587,4.323,3.264,18,0.454,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,De'Andre Hunter,huntede01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/h/huntede01.html
+2019,Darius Garland,garlada01,2019-20,2018-19,College / prospect season,Vanderbilt,16.194,3.823,2.572,2.988,19,0.537,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jarrett Culver,culveja01,2019-20,2018-19,College / prospect season,Texas Tech,18.51,6.414,3.734,2.679,19,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Coby White,whiteco01,2019-20,2018-19,College / prospect season,UNC,16.055,3.568,4.067,2.64,18,0.423,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jaxson Hayes,hayesja02,2019-20,2018-19,College / prospect season,Texas,9.979,5.019,0.292,0.934,18,0.728,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Rui Hachimura,hachiru01,2019-20,2018-19,College / prospect season,Gonzaga,19.698,6.491,1.509,1.811,20,0.591,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Cam Reddish,reddica01,2019-20,2018-19,College / prospect season,Duke,13.437,3.712,1.93,2.673,19,0.356,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Cameron Johnson,johnsca02,2019-20,2018-19,College / prospect season,UNC,16.887,5.754,2.391,1.494,22,0.506,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,P.J. Washington,washipj01,2019-20,2018-19,College / prospect season,Kentucky,15.141,7.534,1.829,1.975,20,0.522,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Tyler Herro,herroty01,2019-20,2018-19,College / prospect season,Kentucky,14.027,4.485,2.447,1.631,19,0.462,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Romeo Langford,langfro01,2019-20,2018-19,College / prospect season,Indiana,16.52,5.365,2.384,2.129,19,0.448,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Sekou Doumbouya,doumbse01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/d/doumbse01.html
+2019,Chuma Okeke,okekech01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/o/okekech01.html
+2019,Nickeil Alexander-Walker,alexani01,2019-20,2018-19,College / prospect season,Virginia Tech,16.218,4.119,3.947,2.832,20,0.474,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Goga Bitadze,bitadgo01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/b/bitadgo01.html
+2019,Luka Šamanić,samanlu01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/s/samanlu01.html
+2019,Matisse Thybulle,thybuma01,2019-20,2018-19,College / prospect season,Washington,9.084,3.106,2.174,1.863,21,0.415,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Brandon Clarke,clarkbr01,2019-20,2018-19,College / prospect season,Gonzaga,16.935,8.573,1.897,1.546,22,0.687,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Grant Williams,willigr01,2019-20,2018-19,College / prospect season,Tennessee,18.832,7.501,3.192,2.234,20,0.564,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Darius Bazley,bazleda01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/b/bazleda01.html
+2019,Ty Jerome,jeromty01,2019-20,2018-19,College / prospect season,Virginia,13.578,4.243,5.431,1.612,21,0.435,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Nassir Little,littlna01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/l/littlna01.html
+2019,Dylan Windler,windldy01,2020-21,2018-19,College / prospect season,Belmont,21.275,10.804,2.576,2.078,22,0.54,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Mfiondu Kabengele,kabenmf01,2019-20,2018-19,College / prospect season,Florida State,13.21,5.931,0.324,1.294,21,0.502,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jordan Poole,poolejo01,2019-20,2018-19,College / prospect season,Michigan,12.736,2.977,2.15,1.571,19,0.436,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Keldon Johnson,johnske04,2019-20,2018-19,College / prospect season,Kentucky,13.444,5.839,1.613,1.613,19,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Kevin Porter Jr.,porteke02,2019-20,2018-19,College / prospect season,USC,9.501,3.977,1.436,1.878,18,0.471,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Nic Claxton,claxtni01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/c/claxtni01.html
+2019,KZ Okpala,okpalkz01,2019-20,2018-19,College / prospect season,Stanford,16.853,5.727,1.963,2.863,19,0.463,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Carsen Edwards,edwarca01,2019-20,2018-19,College / prospect season,Purdue,24.26,3.63,2.922,3.099,20,0.394,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Bruno Fernando,fernabr01,2019-20,2018-19,College / prospect season,Maryland,13.588,10.66,2.027,2.778,20,0.607,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Didi Louzada,louzama01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/l/louzama01.html
+2019,Cody Martin,martico01,2019-20,2018-19,College / prospect season,Nevada,12.054,4.477,4.908,1.894,23,0.505,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Deividas Sirvydis,sirvyde01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/s/sirvyde01.html
+2019,Daniel Gafford,gaffoda01,2019-20,2018-19,College / prospect season,Arkansas,16.944,8.687,0.718,2.369,20,0.66,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Alen Smailagić,smailal01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/s/smailal01.html
+2019,Justin James,jamesju01,2019-20,,,,,,,,,,https://www.basketball-reference.com/players/j/jamesju01.html
+2019,Eric Paschall,pascher01,2019-20,2018-19,College / prospect season,Villanova,16.534,6.144,2.168,2.259,22,0.447,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Admiral Schofield,schofad01,2019-20,2018-19,College / prospect season,Tennessee,16.514,6.113,2.064,1.905,21,0.474,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jaylen Nowell,nowelja01,2019-20,2018-19,College / prospect season,Washington,16.189,5.253,3.1,2.928,19,0.502,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Bol Bol,bolbo01,2019-20,2018-19,College / prospect season,Oregon,20.993,9.529,0.968,2.01,19,0.561,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Isaiah Roby,robyis01,2019-20,2018-19,College / prospect season,Nebraska,11.867,6.948,1.952,2.03,20,0.454,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Talen Horton-Tucker,hortota01,2019-20,2018-19,College / prospect season,Iowa State,11.832,4.828,2.312,1.7,18,0.406,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Ignas Brazdeikis,brazdig01,2019-20,2018-19,College / prospect season,Michigan,14.811,5.406,0.815,1.259,20,0.462,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Terance Mann,mannte01,2019-20,2018-19,College / prospect season,Florida State,11.423,6.505,2.538,1.745,22,0.505,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Quinndary Weatherspoon,weathqu01,2019-20,2018-19,College / prospect season,Mississippi State,18.461,4.679,2.807,2.892,22,0.508,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jarrell Brantley,brantja01,2019-20,2018-19,College / prospect season,Charleston,19.363,8.408,2.463,2.548,22,0.517,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Tremont Waters,watertr01,2019-20,2018-19,College / prospect season,LSU,15.239,2.756,5.836,3.486,21,0.43,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jalen McDaniels,mcdanja01,2019-20,2018-19,College / prospect season,San Diego State,15.903,8.3,2.094,2.405,21,0.466,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Justin Wright-Foreman,wrighju02,2019-20,2018-19,College / prospect season,Hofsta,27.081,4.057,2.925,2.642,21,0.511,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Marial Shayok,shayoma01,2019-20,2018-19,College / prospect season,Iowa State,18.743,4.932,1.973,2.713,23,0.496,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Kyle Guy,guyky01,2019-20,2018-19,College / prospect season,Virginia,15.397,4.513,2.035,1.416,21,0.449,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jaylen Hands,handsja01,,2018-19,College / prospect season,UCLA,14.188,3.664,6.08,3.196,19,0.413,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Jordan Bone,bonejo01,2019-20,2018-19,College / prospect season,Tennessee,13.425,3.212,5.848,1.977,21,0.465,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Miye Oni,onimi01,2019-20,2018-19,College / prospect season,Yale,17.108,6.271,3.561,2.555,21,0.441,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Dewan Hernandez,hernade01,2019-20,2018-19,College / prospect season,Miami,11.408,6.639,0.451,1.354,22,0.576,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2019,Vanja Marinković,marinva01,,,,,,,,,,,https://www.basketball-reference.com/players/m/marinva01.html
+2020,Anthony Edwards,edwaran01,2020-21,2019-20,College / prospect season,Georgia,19.076,5.202,2.808,2.725,18,0.402,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,James Wiseman,wisemja01,2020-21,2019-20,College / prospect season,Memphis,19.665,10.695,0.345,0.978,18,0.769,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,LaMelo Ball,ballla01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/b/ballla01.html
+2020,Patrick Williams,willipa01,2020-21,2019-20,College / prospect season,Florida State,9.232,3.997,1.013,1.745,18,0.459,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Isaac Okoro,okorois01,2020-21,2019-20,College / prospect season,Auburn,12.822,4.405,2.045,1.967,19,0.514,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Onyeka Okongwu,okongon01,2020-21,2019-20,College / prospect season,USC,16.241,8.657,1.072,1.992,19,0.616,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Killian Hayes,hayeski01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/h/hayeski01.html
+2020,Obi Toppin,toppiob01,2020-21,2019-20,College / prospect season,Dayton,20.016,7.516,2.136,2.215,21,0.633,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Deni Avdija,avdijde01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/a/avdijde01.html
+2020,Jalen Smith,smithja04,2020-21,2019-20,College / prospect season,Maryland,15.489,10.482,0.782,1.721,19,0.538,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Devin Vassell,vassede01,2020-21,2019-20,College / prospect season,Florida State,12.657,5.034,1.654,0.791,19,0.49,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Tyrese Haliburton,halibty01,2020-21,2019-20,College / prospect season,Iowa State,15.223,5.869,6.419,2.751,19,0.504,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Kira Lewis Jr.,lewiski01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/l/lewiski01.html
+2020,Aaron Nesmith,nesmiaa01,2020-21,2019-20,College / prospect season,Vanderbilt,23.036,4.821,0.893,1.696,20,0.512,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Cole Anthony,anthoco01,2020-21,2019-20,College / prospect season,UNC,18.502,5.673,4.015,3.491,19,0.38,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Isaiah Stewart,stewais01,2020-21,2019-20,College / prospect season,Washington,16.995,8.78,0.805,2.255,18,0.57,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Aleksej Pokusevski,pokusal01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/p/pokusal01.html
+2020,Josh Green,greenjo02,2020-21,2019-20,College / prospect season,Arizona,11.961,4.553,2.624,1.621,19,0.424,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Saddiq Bey,beysa01,2020-21,2019-20,College / prospect season,Villanova,16.104,4.746,2.373,1.526,20,0.477,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Precious Achiuwa,achiupr01,2020-21,2019-20,College / prospect season,Memphis,15.742,10.799,0.989,2.814,20,0.493,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Tyrese Maxey,maxeyty01,2020-21,2019-20,College / prospect season,Kentucky,13.966,4.31,3.19,2.155,19,0.427,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Zeke Nnaji,nnajize01,2020-21,2019-20,College / prospect season,Arizona,16.095,8.66,0.843,2.223,19,0.57,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Leandro Bolmaro,bolmale01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/b/bolmale01.html
+2020,R.J. Hampton,hamptrj01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/h/hamptrj01.html
+2020,Immanuel Quickley,quickim01,2020-21,2019-20,College / prospect season,Kentucky,16.071,4.203,1.896,1.566,20,0.417,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Payton Pritchard,pritcpa01,2020-21,2019-20,College / prospect season,Oregon,20.503,4.302,5.583,2.746,22,0.468,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Udoka Azubuike,azubuud01,2020-21,2019-20,College / prospect season,Kansas,13.716,10.46,0.97,2.425,20,0.748,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Jaden McDaniels,mcdanja02,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/m/mcdanja02.html
+2020,Malachi Flynn,flynnma01,2020-21,2019-20,College / prospect season,San Diego State,17.638,4.43,5.099,1.755,21,0.441,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Desmond Bane,banede01,2020-21,2019-20,College / prospect season,TCU,16.56,6.3,3.87,2.34,21,0.452,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Tyrell Terry,terryty01,2020-21,2019-20,College / prospect season,Stanford,14.661,4.48,3.177,2.606,19,0.441,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Vernon Carey Jr.,careyve01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/c/careyve01.html
+2020,Daniel Oturu,oturuda01,2020-21,2019-20,College / prospect season,Minnesota,20.069,11.262,1.101,2.879,20,0.563,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Théo Maledon,maledth01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/m/maledth01.html
+2020,Xavier Tillman Sr.,tillmxa01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/t/tillmxa01.html
+2020,Tyler Bey,beyty01,2020-21,2019-20,College / prospect season,Colorado,13.832,9.052,1.448,2.39,21,0.53,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Vít Krejčí,krejcvi01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/k/krejcvi01.html
+2020,Saben Lee,leesa01,2020-21,2019-20,College / prospect season,Vanderbilt,18.574,3.534,4.192,3.123,20,0.483,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Elijah Hughes,hugheel01,2020-21,2019-20,College / prospect season,Syracuse,19.002,4.957,3.396,2.295,21,0.427,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Robert Woodard II,woodaro01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/w/woodaro01.html
+2020,Tre Jones,jonestr01,2020-21,2019-20,College / prospect season,Duke,16.218,4.254,6.381,2.659,20,0.423,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Nick Richards,richani01,2020-21,2019-20,College / prospect season,Kentucky,14.007,7.782,0.222,1.556,22,0.642,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Jahmi'us Ramsey,ramseja01,2020-21,2019-20,College / prospect season,Texas Tech,15.047,3.976,2.261,2.027,18,0.442,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Marko Simonovic,simonma01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/s/simonma01.html
+2020,Jordan Nwora,nworajo01,2020-21,2019-20,College / prospect season,Louisville,18.038,7.695,1.324,2.069,21,0.44,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,CJ Elleby,ellebcj01,2020-21,2019-20,College / prospect season,Washington State,18.44,7.843,1.836,2.169,19,0.396,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Yam Madar,madarya01,,,,,,,,,,,https://www.basketball-reference.com/players/m/madarya01.html
+2020,Nico Mannion,mannini01,2020-21,2019-20,College / prospect season,Arizona,13.948,2.499,5.321,2.58,18,0.392,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Isaiah Joe,joeis01,2020-21,2019-20,College / prospect season,Arkansas,16.884,4.153,1.715,1.715,20,0.367,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Skylar Mays,mayssk01,2020-21,2019-20,College / prospect season,LSU,16.693,4.991,3.184,2.237,22,0.491,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Justinian Jessup,jessuju01,,2019-20,College / prospect season,Boise State,16.006,4.406,2.068,1.259,21,0.426,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,KJ Martin,martike04,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/m/martike04.html
+2020,Cassius Winston,winstca01,2020-21,2019-20,College / prospect season,Michigan State,18.62,2.532,5.88,3.185,21,0.448,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Cassius Stanley,stanlca01,2020-21,2019-20,College / prospect season,Duke,12.558,4.872,1.029,1.853,20,0.474,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Jay Scrubb,scrubja01,2020-21,,,,,,,,,,https://www.basketball-reference.com/players/s/scrubja01.html
+2020,Grant Riller,rillegr01,2020-21,2019-20,College / prospect season,Charleston,21.869,5.111,3.938,3.1,22,0.499,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Reggie Perry,perryre01,2020-21,2019-20,College / prospect season,Mississippi State,17.318,10.096,2.33,2.873,19,0.5,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Paul Reed,reedpa01,2020-21,2019-20,College / prospect season,DePaul,15.115,10.684,1.583,2.295,20,0.516,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Jalen Harris,harrija01,2020-21,2019-20,College / prospect season,Nevada,21.637,6.442,3.964,2.395,21,0.446,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2020,Sam Merrill,merrisa01,2020-21,2019-20,College / prospect season,Utah State,19.67,4.109,3.934,1.574,23,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Cade Cunningham,cunnica01,2021-22,2020-21,College / prospect season,Oklahoma State,20.182,6.196,3.452,4.072,19,0.438,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Jalen Green,greenja05,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/g/greenja05.html
+2021,Evan Mobley,mobleev01,2021-22,2020-21,College / prospect season,USC,16.376,8.655,2.376,2.206,19,0.578,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Scottie Barnes,barnesc01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/b/barnesc01.html
+2021,Jalen Suggs,suggsja01,2021-22,2020-21,College / prospect season,Gonzaga,14.394,5.353,4.557,2.966,19,0.503,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Josh Giddey,giddejo01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/g/giddejo01.html
+2021,Jonathan Kuminga,kuminjo01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/k/kuminjo01.html
+2021,Franz Wagner,wagnefr01,2021-22,2020-21,College / prospect season,Michigan,12.434,6.573,3.009,1.267,19,0.477,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Davion Mitchell,mitchda01,2021-22,2020-21,College / prospect season,Baylor,14.039,2.643,5.533,2.395,22,0.511,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Ziaire Williams,willizi02,2021-22,2020-21,College / prospect season,Stanford,10.672,4.534,2.232,2.929,19,0.374,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,James Bouknight,bouknja01,2021-22,2020-21,College / prospect season,UConn,18.762,5.7,1.821,2.771,20,0.447,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Joshua Primo,primojo01,2021-22,2020-21,College / prospect season,Alabama,8.144,3.37,0.843,1.348,18,0.431,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Chris Duarte,duartch01,2021-22,2020-21,College / prospect season,Oregon,17.124,4.6,2.641,2.3,23,0.532,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Moses Moody,moodymo01,2021-22,2020-21,College / prospect season,Arkansas,16.822,5.748,1.606,1.606,18,0.427,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Corey Kispert,kispeco01,2021-22,2020-21,College / prospect season,Gonzaga,18.629,4.936,1.831,1.274,21,0.529,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Alperen Şengün,sengual01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/s/sengual01.html
+2021,Trey Murphy III,murphtr02,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/m/murphtr02.html
+2021,Tre Mann,manntr01,2021-22,2020-21,College / prospect season,Florida,16.026,5.585,3.48,2.833,19,0.459,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Kai Jones,joneska01,2021-22,2020-21,College / prospect season,Texas,8.853,4.855,0.628,1.371,20,0.58,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Jalen Johnson,johnsja05,2021-22,2020-21,College / prospect season,Duke,11.227,6.095,2.245,2.513,19,0.523,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Keon Johnson,johnske07,2021-22,2020-21,College / prospect season,Tennessee,11.339,3.504,2.484,2.612,18,0.449,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Isaiah Jackson,jacksis01,2021-22,2020-21,College / prospect season,Kentucky,8.46,6.591,0.727,1.505,19,0.54,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Usman Garuba,garubus01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/g/garubus01.html
+2021,Josh Christopher,chrisjo01,2021-22,2020-21,College / prospect season,Arizona State,14.272,4.757,1.412,1.71,19,0.432,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Quentin Grimes,grimequ01,2021-22,2020-21,College / prospect season,Houston,17.794,5.74,1.968,1.804,20,0.406,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Bones Hyland,hylanbo01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/h/hylanbo01.html
+2021,Cam Thomas,thomaca02,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/t/thomaca02.html
+2021,Jaden Springer,sprinja01,2021-22,2020-21,College / prospect season,Tennessee,12.506,3.499,2.916,2.398,18,0.467,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Day'Ron Sharpe,sharpda01,2021-22,2020-21,College / prospect season,UNC,9.49,7.573,1.438,1.965,19,0.519,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Santi Aldama,aldamsa01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/a/aldamsa01.html
+2021,Isaiah Todd,toddis01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/t/toddis01.html
+2021,Jeremiah Robinson-Earl,robinje02,2021-22,2020-21,College / prospect season,Villanova,15.688,8.448,2.241,1.638,20,0.497,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Jason Preston,prestja01,2022-23,2020-21,College / prospect season,Ohio,15.72,7.256,7.256,3.023,21,0.514,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Rokas Jokubaitis,jokubro01,,,,,,,,,,,https://www.basketball-reference.com/players/j/jokubro01.html
+2021,Herbert Jones,joneshe01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/j/joneshe01.html
+2021,Miles McBride,mcbrimi01,2021-22,2020-21,College / prospect season,West Virginia,15.89,3.93,4.87,1.794,20,0.431,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,JT Thor,thorjt01,2021-22,2020-21,College / prospect season,Auburn,9.388,5.011,0.864,1.555,18,0.44,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Ayo Dosunmu,dosunay01,2021-22,2020-21,College / prospect season,Illinois,20.119,6.326,5.271,3.339,21,0.488,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Neemias Queta,quetane01,2021-22,2020-21,College / prospect season,Utah State,14.942,10.137,2.628,2.403,21,0.559,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Jared Butler,butleja02,2021-22,2020-21,College / prospect season,Baylor,16.759,3.337,4.777,2.806,20,0.471,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Joe Wieskamp,wieskjo01,2021-22,2020-21,College / prospect season,Iowa,14.848,6.656,1.682,1.39,21,0.491,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Isaiah Livers,liveris01,2021-22,2020-21,College / prospect season,Michigan,13.118,6.006,1.976,1.106,22,0.457,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Greg Brown III,browngr01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/b/browngr01.html
+2021,Kessler Edwards,edwarke02,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/e/edwarke02.html
+2021,Juhann Begarin,begarju01,,,,,,,,,,,https://www.basketball-reference.com/players/b/begarju01.html
+2021,Dalano Banton,bantoda01,2021-22,2020-21,College / prospect season,Nebraska,9.541,5.861,3.884,2.453,21,0.411,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,David Johnson,johnsda08,2021-22,2020-21,College / prospect season,Louisville,12.638,5.792,3.159,3.247,19,0.411,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Sharife Cooper,coopesh01,2021-22,2020-21,College / prospect season,Auburn,20.181,4.218,8.105,4.135,19,0.391,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Marcus Zegarowski,zegarma01,,2020-21,College / prospect season,Creighton,15.869,3.611,4.282,2.099,22,0.464,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Filip Petrušev,petrufi01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/p/petrufi01.html
+2021,Brandon Boston Jr.,bostobr01,2021-22,2020-21,College / prospect season,Kentucky,11.461,4.478,1.594,1.442,19,0.355,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Luka Garza,garzalu01,2021-22,2020-21,College / prospect season,Iowa,24.06,8.728,1.73,1.494,22,0.553,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Charles Bassey,bassech01,2021-22,2020-21,College / prospect season,Western Kentucky,17.628,11.625,0.684,2.203,20,0.59,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Sandro Mamukelashvili,mamuksa01,2021-22,2020-21,College / prospect season,Seton Hall,17.529,7.563,3.203,3.292,21,0.434,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Aaron Wiggins,wiggiaa01,2021-22,2020-21,College / prospect season,Maryland,14.438,5.857,2.558,1.98,22,0.446,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Scottie Lewis,lewissc01,2021-22,2020-21,College / prospect season,Florida,7.878,3.074,1.473,1.857,20,0.445,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Balša Koprivica,kopriba01,,2020-21,College / prospect season,Florida State,9.116,5.606,0.731,1.316,20,0.599,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Jericho Sims,simsje01,2021-22,2020-21,College / prospect season,Texas,9.202,7.239,0.675,1.595,22,0.696,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,RaiQuan Gray,grayra01,2022-23,2020-21,College / prospect season,Florida State,11.91,6.383,2.171,2.171,21,0.517,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2021,Georgios Kalaitzakis,kalaige01,2021-22,,,,,,,,,,https://www.basketball-reference.com/players/k/kalaige01.html
+2022,Paolo Banchero,banchpa01,2022-23,2021-22,College / prospect season,Duke,17.229,7.831,3.215,2.391,19,0.478,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Chet Holmgren,holmgch01,2023-24,2021-22,College / prospect season,Gonzaga,14.126,9.888,1.883,1.883,19,0.607,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Jabari Smith Jr.,smithja05,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/s/smithja05.html
+2022,Keegan Murray,murrake02,2022-23,2021-22,College / prospect season,Iowa,23.516,8.689,1.515,1.116,21,0.554,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Jaden Ivey,iveyja01,2022-23,2021-22,College / prospect season,Purdue,17.294,4.874,3.066,2.594,19,0.46,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Bennedict Mathurin,mathube01,2022-23,2021-22,College / prospect season,Arizona,17.69,5.599,2.516,1.785,19,0.45,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Shaedon Sharpe,sharpsh01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/s/sharpsh01.html
+2022,Dyson Daniels,daniedy01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/d/daniedy01.html
+2022,Jeremy Sochan,sochaje01,2022-23,2021-22,College / prospect season,Baylor,9.236,6.346,1.759,1.571,18,0.474,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Johnny Davis,davisjo06,2022-23,2021-22,College / prospect season,Wisconsin,19.747,8.206,2.137,2.308,19,0.427,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Ousmane Dieng,diengou01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/d/diengou01.html
+2022,Jalen Williams,willija06,2022-23,2021-22,College / prospect season,Santa Clara,18.034,4.443,4.182,2.091,20,0.513,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Jalen Duren,durenja01,2022-23,2021-22,College / prospect season,Memphis,11.943,8.151,1.264,2.212,18,0.597,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Ochai Agbaji,agbajoc01,2022-23,2021-22,College / prospect season,Kansas,18.752,5.082,1.577,2.015,21,0.475,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Mark Williams,willima07,2022-23,2021-22,College / prospect season,Duke,11.229,7.388,0.887,0.946,20,0.721,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,AJ Griffin,griffaj01,2022-23,2021-22,College / prospect season,Duke,10.369,3.896,0.959,0.659,18,0.493,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Tari Eason,easonta01,2022-23,2021-22,College / prospect season,LSU,16.914,6.595,0.977,2.198,20,0.521,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Dalen Terry,terryda01,2022-23,2021-22,College / prospect season,Arizona,7.996,4.867,3.894,1.391,19,0.502,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Jake LaRavia,laravja01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/l/laravja01.html
+2022,Malaki Branham,branhma01,2022-23,2021-22,College / prospect season,Ohio State,13.627,3.555,2.0,1.703,18,0.498,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Christian Braun,braunch01,2022-23,2021-22,College / prospect season,Kansas,14.083,6.527,2.748,2.061,20,0.495,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Walker Kessler,kesslwa01,2022-23,2021-22,College / prospect season,Auburn,11.464,8.07,0.897,1.089,20,0.608,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,David Roddy,roddyda01,2022-23,2021-22,College / prospect season,Colorado State,19.185,7.575,2.882,2.305,20,0.571,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,MarJon Beauchamp,beaucma01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/b/beaucma01.html
+2022,Blake Wesley,weslebl01,2022-23,2021-22,College / prospect season,Notre Dame,14.378,3.668,2.421,2.201,18,0.404,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Wendell Moore Jr.,moorewe01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/m/moorewe01.html
+2022,Nikola Jović,jovicni01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/j/jovicni01.html
+2022,Patrick Baldwin Jr.,baldwpa01,2022-23,2021-22,College / prospect season,Wisconsin-Milwaukee,12.06,5.852,1.57,2.07,19,0.344,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,TyTy Washington Jr.,washity02,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/w/washity02.html
+2022,Peyton Watson,watsope01,2022-23,2021-22,College / prospect season,UCLA,3.291,2.879,0.823,0.949,19,0.322,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Andrew Nembhard,nembhan01,2022-23,2021-22,College / prospect season,Gonzaga,11.817,3.376,5.788,1.929,22,0.452,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Caleb Houstan,houstca01,2022-23,2021-22,College / prospect season,Michigan,10.08,4.0,1.36,1.52,19,0.384,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Christian Koloko,kolokch01,2022-23,2021-22,College / prospect season,Arizona,12.589,7.312,1.399,1.59,21,0.635,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Jaylin Williams,willija07,2022-23,2021-22,College / prospect season,Arkansas,10.919,9.811,2.532,1.82,19,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Max Christie,chrisma02,2022-23,2021-22,College / prospect season,Michigan State,9.24,3.465,1.463,1.463,18,0.382,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Gabriele Procida,prociga01,,,,,,,,,,,https://www.basketball-reference.com/players/p/prociga01.html
+2022,Jaden Hardy,hardyja02,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/h/hardyja02.html
+2022,Kennedy Chandler,chandke01,2022-23,2021-22,College / prospect season,Tennessee,13.948,3.236,4.701,2.466,19,0.464,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Khalifa Diop,diopkh01,,,,,,,,,,,https://www.basketball-reference.com/players/d/diopkh01.html
+2022,Bryce McGowens,mcgowbr01,2022-23,2021-22,College / prospect season,Nebraska,16.812,5.16,1.415,2.081,19,0.403,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,E.J. Liddell,liddeej01,2023-24,2021-22,College / prospect season,Ohio State,19.415,7.965,2.489,2.406,21,0.49,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Trevor Keels,keelstr01,2022-23,2021-22,College / prospect season,Duke,11.474,3.472,2.718,1.283,18,0.419,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Moussa Diabaté,diabamo01,2022-23,2021-22,College / prospect season,Michigan,9.017,5.97,0.808,1.492,20,0.542,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Ryan Rollins,rolliry01,2022-23,2021-22,College / prospect season,Toledo,18.871,5.963,3.594,2.206,19,0.468,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Josh Minott,minotjo01,2022-23,2021-22,College / prospect season,Memphis,6.586,3.769,0.951,0.951,19,0.522,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Ismael Kamagate,kamagis01,,,,,,,,,,,https://www.basketball-reference.com/players/k/kamagis01.html
+2022,Vince Williams Jr.,willivi01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/w/willivi01.html
+2022,Kendall Brown,brownke03,2022-23,2021-22,College / prospect season,Baylor,9.652,4.86,1.823,1.688,18,0.584,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Isaiah Mobley,mobleis01,2022-23,,,,,,,,,,https://www.basketball-reference.com/players/m/mobleis01.html
+2022,Matteo Spagnolo,spagnma01,,,,,,,,,,,https://www.basketball-reference.com/players/s/spagnma01.html
+2022,Tyrese Martin,martity01,2022-23,2021-22,College / prospect season,UConn,13.549,7.536,1.924,1.844,22,0.449,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Karlo Matković,matkoka01,2024-25,,,,,,,,,,https://www.basketball-reference.com/players/m/matkoka01.html
+2022,JD Davison,davisjd01,2022-23,2021-22,College / prospect season,Alabama,8.52,4.776,4.325,2.905,19,0.463,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Yannick Nzosa,nzosaya01,,,,,,,,,,,https://www.basketball-reference.com/players/n/nzosaya01.html
+2022,Gui Santos,santogu01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/s/santogu01.html
+2022,Luke Travers,travelu01,2024-25,,,,,,,,,,https://www.basketball-reference.com/players/t/travelu01.html
+2022,Jabari Walker,walkeja01,2022-23,2021-22,College / prospect season,Colorado,14.623,9.421,1.265,2.32,19,0.461,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2022,Hugo Besson,bessohu01,,,,,,,,,,,https://www.basketball-reference.com/players/b/bessohu01.html
+2023,Victor Wembanyama,wembavi01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/w/wembavi01.html
+2023,Brandon Miller,millebr02,2023-24,2022-23,College / prospect season,Alabama,18.773,8.244,2.041,2.204,20,0.43,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Scoot Henderson,hendesc01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/h/hendesc01.html
+2023,Amen Thompson,thompam01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/t/thompam01.html
+2023,Ausar Thompson,thompau01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/t/thompau01.html
+2023,Anthony Black,blackan01,2023-24,2022-23,College / prospect season,Arkansas,12.811,5.055,3.922,3.05,19,0.453,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Bilal Coulibaly,coulibi01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/c/coulibi01.html
+2023,Jarace Walker,walkeja02,2023-24,2022-23,College / prospect season,Houston,11.229,6.82,1.791,1.447,19,0.465,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Taylor Hendricks,hendrta01,2023-24,2022-23,College / prospect season,Central Florida,15.171,6.935,1.387,1.387,19,0.478,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Cason Wallace,wallaca01,2023-24,2022-23,College / prospect season,Kentucky,11.748,3.702,4.265,2.092,19,0.446,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jett Howard,howarje01,2023-24,2022-23,College / prospect season,Michigan,14.227,2.861,2.067,1.272,19,0.414,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Dereck Lively II,livelde01,2023-24,2022-23,College / prospect season,Duke,5.199,5.404,1.081,0.669,18,0.658,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Gradey Dick,dickgr01,2023-24,2022-23,College / prospect season,Kansas,14.059,5.149,1.635,1.226,19,0.442,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jordan Hawkins,hawkijo01,2023-24,2022-23,College / prospect season,Connecticut,16.143,3.816,1.247,1.321,20,0.409,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Kobe Bufkin,bufkiko01,2023-24,2022-23,College / prospect season,Michigan,14.012,4.501,2.887,1.953,19,0.482,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Keyonte George,georgke01,2023-24,2022-23,College / prospect season,Baylor,15.304,4.148,2.789,2.861,19,0.376,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jalen Hood-Schifino,hoodsja01,2023-24,2022-23,College / prospect season,Indiana,13.473,4.133,3.637,2.81,19,0.417,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jaime Jaquez Jr.,jaqueja01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/j/jaqueja01.html
+2023,Brandin Podziemski,podzibr01,2023-24,2022-23,College / prospect season,Santa Clara,19.89,8.73,3.69,2.25,19,0.483,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Cam Whitmore,whitmca01,2023-24,2022-23,College / prospect season,Villanova,12.544,5.317,0.75,1.636,18,0.478,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Noah Clowney,clownno01,2023-24,2022-23,College / prospect season,Alabama,9.785,7.943,0.826,1.271,18,0.486,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Dariq Whitehead,whiteda01,2023-24,2022-23,College / prospect season,Duke,8.243,2.421,0.979,1.391,18,0.421,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Kris Murray,murrakr01,2023-24,2022-23,College / prospect season,Shooter,20.22,7.931,2.005,1.482,22,0.476,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Olivier-Maxence Prosper,prospol01,2023-24,2022-23,College / prospect season,Marquette,12.53,4.662,0.656,1.384,20,0.512,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Marcus Sasser,sassema01,2023-24,2022-23,College / prospect season,Houston,16.774,2.847,3.078,1.616,22,0.438,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Ben Sheppard,sheppbe01,2023-24,2022-23,College / prospect season,Belmont,18.82,5.242,2.922,2.148,21,0.475,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Nick Smith Jr.,smithni01,2023-24,2022-23,College / prospect season,Arkansas,12.56,1.675,1.675,1.61,18,0.376,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Brice Sensabaugh,sensabr01,2023-24,2022-23,College / prospect season,Ohio State,16.303,5.393,1.164,2.022,19,0.48,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Julian Strawther,strawju01,2023-24,2022-23,College / prospect season,Gonzaga,15.205,6.238,1.326,1.481,20,0.469,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Kobe Brown,brownko01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/b/brownko01.html
+2023,James Nnaji,nnajija01,,,,,,,,,,,https://www.basketball-reference.com/players/n/nnajija01.html
+2023,Jalen Pickett,pickeja02,2023-24,2022-23,College / prospect season,Penn State,17.735,7.405,6.582,2.285,23,0.508,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Leonard Miller,millele01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/m/millele01.html
+2023,Colby Jones,jonesco02,2023-24,2022-23,College / prospect season,Xavier,15.033,5.69,4.416,2.293,20,0.509,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Julian Phillips,phillju01,2023-24,2022-23,College / prospect season,Tennessee,8.302,4.692,1.444,1.263,19,0.411,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Andre Jackson Jr.,jacksan01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/j/jacksan01.html
+2023,Hunter Tyson,tysonhu01,2023-24,2022-23,College / prospect season,Clemson,15.271,9.544,1.475,1.041,22,0.479,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jordan Walsh,walshjo01,2023-24,2022-23,College / prospect season,Arkansas,7.073,3.902,0.915,1.037,18,0.433,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Mouhamed Gueye,gueyemo02,2023-24,2022-23,College / prospect season,Washington State,14.267,8.336,1.843,2.324,20,0.488,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Maxwell Lewis,lewisma05,2023-24,2022-23,College / prospect season,Pepperdine,17.045,5.655,2.828,3.299,20,0.468,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Amari Bailey,baileam01,2023-24,2022-23,College / prospect season,UCLA,11.177,3.771,2.155,2.424,18,0.495,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Tristan Vukcevic,vukcetr01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/v/vukcetr01.html
+2023,Rayan Rupert,ruperra01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/r/ruperra01.html
+2023,Sidy Cissoko,cissosi01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/c/cissosi01.html
+2023,GG Jackson II,jacksgg01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/j/jacksgg01.html
+2023,Seth Lundy,lundyse01,2023-24,2022-23,College / prospect season,Penn State,14.183,6.26,0.872,0.872,22,0.45,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Mojave King,kingmo01,,,,,,,,,,,https://www.basketball-reference.com/players/k/kingmo01.html
+2023,Jordan Miller,millejo02,2023-24,2022-23,College / prospect season,Miami,15.301,6.208,2.71,1.311,23,0.545,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Emoni Bates,batesem01,2023-24,2022-23,College / prospect season,Eastern Michigan,19.266,5.746,1.437,2.535,19,0.405,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Keyontae Johnson,johnske08,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/j/johnske08.html
+2023,Jalen Wilson,wilsoja03,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/w/wilsoja03.html
+2023,Toumani Camara,camarto01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/c/camarto01.html
+2023,Jaylen Clark,clarkja02,2024-25,2022-23,College / prospect season,UCLA,12.963,6.024,1.83,1.22,21,0.481,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Jalen Slawson,slawsja01,2023-24,2022-23,College / prospect season,Furman,15.563,7.053,3.22,2.607,23,0.556,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Isaiah Wong,wongis01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/w/wongis01.html
+2023,Tarik Biberovic,biberta01,,,,,,,,,,,https://www.basketball-reference.com/players/b/biberta01.html
+2023,Trayce Jackson-Davis,jackstr02,2023-24,2022-23,College / prospect season,Indiana,20.978,10.791,4.057,2.504,22,0.581,https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+2023,Chris Livingston,livinch01,2023-24,,,,,,,,,,https://www.basketball-reference.com/players/l/livinch01.html
