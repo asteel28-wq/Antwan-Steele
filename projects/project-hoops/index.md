@@ -55,7 +55,7 @@ The holdout consists of the 2022 and 2023 draft classes. Models train on the 201
 These plots show points per game against rookie PER and total rookie WS. Each point is one player, colored by draft year. The line is a descriptive linear trend across all complete cases, not a holdout prediction or causal estimate. Total WS also depends on playing time.
 
 ## 7-8. Model design/ visualizations: holdout predictions
-[rookie_outcome.png](projects/project-hoops/analysis_outputs)
+[rookie_outcome.png](projects/project-hoops/analysis_outputs)  
 [rookie_prediction.png](projects/project-hoops/analysis_outputs)
 
 The baseline predicts the training-class mean for every holdout player. Multiple linear regression estimates a straight-line relationship between the six standardized predictors and each outcome. Polynomial regression expands the predictors to include squared and pairwise interaction terms, then applies Ridge regularization (alpha = 10) to limit overfitting. This setting is fixed for this project, not optimized through a separate tuning search.
