@@ -63,3 +63,49 @@ Both models predict PER and WS separately. MAE and RMSE measure error in the out
 ## 8. Visualization 2: holdout predictions
 
 Each panel compares actual and predicted values for one target/model combination on the 2022-2023 holdout. Points closer to the dashed diagonal are more accurate. The baseline forms a vertical band because it predicts the same training mean for each player.
+
+## 9. Results and interpretation on my visualizations
+
+The first visualization compares each player’s latest available pre-NBA points per game with their rookie PER and Win Shares. Each dot represents one player, and the colors show the draft year. The trend lines rise slightly, but the dots are spread out, so points per game alone is not a strong predictor of either outcome. The correlations between points per game and rookie PER or Win Shares are close to zero.
+
+The second visualization shows predictions for the 2022 and 2023 draft classes. The models learned from players drafted between 2018 and 2021. The dashed diagonal shows where a perfect prediction would fall. The linear and polynomial models are generally closer to that line than the average-value baseline, but many predictions still miss the actual results. The models often predict closer to the middle of the group and have more trouble with unusually high or low outcomes.
+
+Polynomial regression had the lowest average error for both PER and Win Shares, but it only improved slightly over linear regression. Its R² was about 0.23 for each outcome. This means the model captured some of the differences among players in the holdout group, but most of those differences were still not explained by the features in this project. I would describe the predictions as modest, not reliable enough to judge an individual prospect.
+
+The coefficient results suggest that field-goal percentage and age were most strongly associated with predicted PER in the linear model. Assists and turnovers had the largest coefficients for Win Shares. These results show associations in this sample; they do not prove that one statistic causes a player to succeed. Other factors, such as playing time, health, team situation, and the level of competition, may also affect rookie performance.
+
+## 10. Limitations, ethics, and reflection
+
+- **Missing pre-NBA data:** 110 players have no matched pre-NBA season record. International and other non-college players are especially likely to be missing. The 240-player sample is not representative of all 356 drafted players.
+- **Survivorship and selection:** The project includes drafted players only. It cannot compare drafted prospects with undrafted players, and it does not explain who gets drafted.
+- **Small sample:** There are 166 training players and 74 holdout players. A different draft-year split could produce different scores.
+- **Outcome definitions:** PER and WS are imperfect summaries. WS is cumulative and affected by playing time and team performance; PER can be unstable for players with few minutes. The files do not provide consistent playing time for filtering.
+- **Context and comparability:** The dataset combines pre-NBA environments and seasons. Similar statistics can mean different things across leagues, teams, roles, and levels of competition.
+- **Model risk:** Polynomial regression only slightly outperforms linear regression here, and both leave most outcome variation unexplained. I would not use either alone for a real draft decision. Scouting, health, role, and development also matter.
+
+## 11. Conclusion
+
+On the 2022-2023 holdout, both regressions performed better than the training-mean baseline for PER and WS. Polynomial regression had the lowest MAE, but only by a small margin over linear regression. The supplied pre-NBA statistics contain some information about rookie outcomes, but they are not enough to predict an individual player's performance reliably.
+
+The answer to the research question is **somewhat, but with substantial uncertainty**. A stronger follow-up would add verified final-season stats for international and semi-pro prospects, minutes played, competition level, and additional future draft classes.
+
+## 12. Code and transparency
+
+The reusable Python analysis is in [nba_rookie_analysis.py](nba_rookie_analysis.py). Run it from this folder with **python nba_rookie_analysis.py**. It reads the two CSVs in the draft-data folder, saves two figures and result tables in analysis_outputs, and prints coverage and model results.
+
+Generative AI was used to help draft and debug the analysis code and project wording. Check the course's AI disclosure requirements and revise this statement if the instructor requires a specific format.
+
+## References
+
+Coates, D., & Oguntimein, B. (2010). The length and success of NBA careers: Does college production predict professional outcomes? *International Journal of Sport Finance, 5*(1), 4-26. https://doi.org/10.1177/155862351000500101
+
+Moxley, J. H., & Towne, T. J. (2015). Predicting success in the National Basketball Association: Stability & potential. *Psychology of Sport and Exercise, 16*, 128-136. https://doi.org/10.1016/j.psychsport.2014.07.003
+
+Basketball-Reference.com. (n.d.). *Glossary*. Retrieved October 3, 2026, from https://www.basketball-reference.com/about/glossary.html
+
+JasonG7234. (n.d.). *NBA-Draft-Model* [Data set]. GitHub. Retrieved October 3, 2026, from https://github.com/JasonG7234/NBA-Draft-Model/tree/master/data
+
+Basketball-Reference.com. (n.d.). *NBA 2018-19 advanced statistics*. Retrieved October 3, 2026, from https://www.basketball-reference.com/leagues/NBA_2019_advanced.html
+
+Source URL columns in the CSVs link to the draft, rookie-stat, or pre-NBA record for each player. The supplied CSV copies were accessed October 3, 2026.
+
