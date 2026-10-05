@@ -54,9 +54,10 @@ The holdout consists of the 2022 and 2023 draft classes. Models train on the 201
 
 These plots show points per game against rookie PER and total rookie WS. Each point is one player, colored by draft year. The line is a descriptive linear trend across all complete cases, not a holdout prediction or causal estimate. Total WS also depends on playing time.
 
-## 7-8. Model design/ visualizations holdout predictions
+## 7-8. Model design/ visualizations: holdout predictions
 [rookie_outcome.png](projects/project-hoops/analysis_outputs)
 [rookie_prediction.png](projects/project-hoops/analysis_outputs)
+
 The baseline predicts the training-class mean for every holdout player. Multiple linear regression estimates a straight-line relationship between the six standardized predictors and each outcome. Polynomial regression expands the predictors to include squared and pairwise interaction terms, then applies Ridge regularization (alpha = 10) to limit overfitting. This setting is fixed for this project, not optimized through a separate tuning search.
 
 Both models predict PER and WS separately. MAE and RMSE measure error in the outcome's units; lower values are better. R-squared measures test-set variation explained relative to predicting the test mean; higher is better, and negative values indicate performance worse than that reference.
@@ -67,9 +68,9 @@ Each panel compares actual and predicted values for one target/model combination
 
 The first visualization compares each player’s latest available pre-NBA points per game with their rookie PER and Win Shares. Each dot represents one player, and the colors show the draft year. The trend lines rise slightly, but the dots are spread out, so points per game alone is not a strong predictor of either outcome. The correlations between points per game and rookie PER or Win Shares are close to zero.
 
-The second visualization shows predictions for the 2022 and 2023 draft classes. The models learned from players drafted between 2018 and 2021. The dashed diagonal shows where a perfect prediction would fall. The linear and polynomial models are generally closer to that line than the average-value baseline, but many predictions still miss the actual results. The models often predict closer to the middle of the group and have more trouble with unusually high or low outcomes.
+The second visualization shows predictions for the 2022 and 2023 draft classes. The models learned from players drafted between 2018 and 2021. The dashed diagonal shows where a perfect prediction would fall. The linear and polynomial models are generally closer to that line than the average-value baseline, but many predictions still miss the actual results. The models often predict closer to the group mean and struggle with unusually high or low outcomes.
 
-Polynomial regression had the lowest average error for both PER and Win Shares, but it only improved slightly over linear regression. Its R² was about 0.23 for each outcome. This means the model captured some of the differences among players in the holdout group, but most of those differences were still not explained by the features in this project. I would describe the predictions as modest, not reliable enough to judge an individual prospect.
+Polynomial regression had the lowest average error for both PER and Win Shares, but it only improved slightly over linear regression. Its R² was about 0.23 for each outcome. This means the model captured some differences among players in the holdout group, but the features in this project still didn't explain most of them. I would describe the predictions as modest, not reliable enough to judge an individual prospect.
 
 The coefficient results suggest that field-goal percentage and age were most strongly associated with predicted PER in the linear model. Assists and turnovers had the largest coefficients for Win Shares. These results show associations in this sample; they do not prove that one statistic causes a player to succeed. Other factors, such as playing time, health, team situation, and the level of competition, may also affect rookie performance.
 
